@@ -1,0 +1,1 @@
+LineJuggler-2.11.vmb: call delete('/home/shawn/.vim/autoload/LineJuggler.vim')|call delete('/home/shawn/.vim/autoload/LineJuggler/IntraLine.vim')|call delete('/home/shawn/.vim/plugin/LineJuggler.vim')|call delete('/home/shawn/.vim/doc/LineJuggler.txt')
